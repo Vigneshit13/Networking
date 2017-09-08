@@ -8,6 +8,7 @@ public class Writer1 {
 			FileWriter writer = new FileWriter("sample.txt");
 			
 		} catch (Exception e) {
+			
 			// TODO: handle exception
 			
 		}
