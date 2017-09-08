@@ -9,6 +9,7 @@ public class Writer1 {
 			
 		} catch (Exception e) {
 			// TODO: handle exception
+			
 		}
 	}
 }
