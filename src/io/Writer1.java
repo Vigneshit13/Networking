@@ -13,7 +13,6 @@ public class Writer1 {
 			
 		} catch (Exception e) {
 			System.out.println("Exception"+e);
-			
 			// TODO: handle exception
 			
 		}
